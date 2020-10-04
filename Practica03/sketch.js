@@ -35,7 +35,7 @@ function setup (){
 
 */
 
-//EJERCICIO 2 - PRACTICA  04
+//EJERCICIO 4 - PRACTICA  03
 
 let qt;
 let count = 0;
